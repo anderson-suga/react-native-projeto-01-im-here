@@ -72,6 +72,16 @@ node_modules
 *.log
 .nvm
 package-lock.json
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
 
 # OS X
 .DS_Store
