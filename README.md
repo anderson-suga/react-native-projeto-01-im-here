@@ -1,5 +1,9 @@
 # Projeto 01 - I'm Here
 
+## Ambiente React Native
+https://react-native.rocketseat.dev </br>
+https://reactnative.dev/docs/environment-setup
+
 ## Criando o projeto
 
 ```
