@@ -82,6 +82,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+.nvmrc
 
 # OS X
 .DS_Store
